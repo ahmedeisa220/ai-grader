@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Base fixes for RTL + full-height layouts */
+html, body, #root { height: 100%; }
+body { margin: 0; }
+
+.rtl { direction: rtl; }
