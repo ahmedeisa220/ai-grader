@@ -293,7 +293,7 @@ const App = () => {
               <CheckCircle className="text-white w-6 h-6" />
             </div>
             <div className="flex flex-col">
-              <h1 className="text-xl font-bold tracking-tight">مُصحح AE Quiz Checker</h1>
+              <h1 className="text-xl font-bold tracking-tight">AE Quiz Checker</h1>
               {isAdmin && <span className="text-xs font-extrabold text-indigo-600">وضع الأدمن مفعل</span>}
             </div>
           </div>
